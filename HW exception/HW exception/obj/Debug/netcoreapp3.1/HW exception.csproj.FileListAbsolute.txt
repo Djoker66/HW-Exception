@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.exe
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.deps.json
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.dll
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\bin\Debug\netcoreapp3.1\HW exception.pdb
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.dll
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.pdb
+C:\Users\User\Desktop\Visual Studio\HW exception\HW exception\obj\Debug\netcoreapp3.1\HW exception.genruntimeconfig.cache
